@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mcclares
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, C, C++
 - 💞️ I’m looking to collaborate on with someone xD
 - 📫 How to reach me @Devil_GameDev Telegram
 
